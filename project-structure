@@ -1,0 +1,23 @@
+my-fullstack-app/
+├── server/
+│   ├── src/
+│   │   ├── controllers/
+│   │   ├── routes/
+│   │   └── config/
+│   ├── package.json
+│   └── server.js
+├── database/
+│   ├── models/
+│   ├── migrations/
+│   ├── seeds/
+│   ├── config.js
+│   └── connection.js
+└── client/
+    ├── public/
+    ├── src/
+    │   ├── components/
+    │   ├── pages/
+    │   ├── services/
+    │   └── assets/
+    ├── package.json
+    └── index.js 
